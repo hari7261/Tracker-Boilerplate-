@@ -2,6 +2,9 @@
 
 A modern, production-ready boilerplate for building AI-powered tracking systems with React and TypeScript.
 
+![image](https://github.com/user-attachments/assets/1cc9f19d-b9a9-4698-9b7c-4c2f22b5441f)
+
+
 ## Features
 
 - 🗺️ Real-time tracking interface
